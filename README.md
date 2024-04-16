@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Divyam90
+- 👋 Hi, I’m Divyam Kalra
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on MERN Related Projects
